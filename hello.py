@@ -1,6 +1,10 @@
 a = 10
 b = 10
 
-c = a % b
+<<<<<<< HEAD
+c = a - b
+=======
+c = a / b
+>>>>>>> new-code
 
 print(c)
